@@ -15,3 +15,6 @@ __pycache__/
 
 .ini
 .sock
+
+analysis/
+food_nutrients/
